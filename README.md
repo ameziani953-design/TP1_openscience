@@ -1,1 +1,1 @@
-# TP1 Open Science (Windows)
+# TP1 - Open Science (Windows)
